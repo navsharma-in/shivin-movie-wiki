@@ -12,13 +12,13 @@ function App() {
   return (
     <BrowserRouter>
       <Header />
-      <div className="App">jkknkjnkj
+      <div className="App">
       <Container>
           <Routes>
-            <Route path="/" component={Trending} exact />
-            <Route path="/movies" component={Movies} />
-            <Route path="/series" component={Series} />
-            <Route path="/search" component={Search} />
+            <Route exact path="/" element={<Trending />} />
+            <Route path="/movies" element={<Movies />} />
+            <Route path="/series" element={<Series />} />
+            <Route path="/search" element={<Search />} />
           </Routes>
       </Container>
       </div>
