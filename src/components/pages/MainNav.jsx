@@ -13,7 +13,7 @@ export default function SimpleBottomNavigation() {
   const navigate = useNavigate();
   useEffect(() => {
     if (value === 0) navigate("/");
-    else if (value === 1) navigate("/movies");
+    else if (value === 1) navigate("/About");
     else if (value === 2) navigate("/series");
     else if (value === 3) navigate("/search");
   }, [value, navigate]);
