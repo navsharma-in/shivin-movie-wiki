@@ -31,3 +31,11 @@
     transform: rotate(360deg);
   }
 }
+
+.h1{
+  font-size: x-large;
+}
+
+.purple {
+  color: var(--imp-text-color) !important;
+}
