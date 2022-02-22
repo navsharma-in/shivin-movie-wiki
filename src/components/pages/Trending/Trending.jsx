@@ -5,8 +5,26 @@ const Trending = () => {
     return (
     <Box>
       <Typography>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos veritatis at molestias repellat placeat? Quasi consectetur numquam eaque harum corrupti magnam similique labore voluptates. Vitae, suscipit eaque sit quaerat fugit vel id ea harum illum at, repellat perspiciatis ut quod voluptate facere debitis eos. Ipsa perferendis ex asperiores deserunt, repudiandae illum, veritatis corporis ad incidunt tempora officia nemo impedit unde eaque autem consectetur? Debitis mollitia nobis provident omnis quod esse, consequuntur molestias veritatis ratione ducimus, odio aliquam deleniti dolorum enim sed sint, ad exercitationem ea earum? Aliquam autem commodi nisi, maiores minima eum laborum perspiciatis nesciunt! Odio voluptatum consequatur, voluptatibus libero possimus quisquam similique provident fugit, voluptatem aut vero necessitatibus fuga sunt deserunt sint! Praesentium assumenda suscipit nihil pariatur reprehenderit, natus quidem, aperiam dicta ullam cupiditate consequatur architecto inventore nemo nam numquam soluta necessitatibus error culpa fuga blanditiis. Nesciunt aspernatur voluptatibus aliquid vitae quas pariatur corrupti maxime cumque numquam deleniti modi sequi sit aliquam praesentium explicabo, dicta excepturi assumenda delectus, officia non. Beatae laudantium voluptas quia eum, deleniti itaque? Odit veritatis aspernatur iste impedit, ab et, esse sunt repellendus amet illum laudantium iusto atque dolorem aliquid, mollitia earum excepturi minus non soluta nihil? Voluptate debitis blanditiis consequatur voluptas velit tempore quod minima quaerat beatae, nihil explicabo sapiente amet recusandae accusantium voluptates aperiam, aliquam alias libero molestias animi. Nobis quaerat dolorum maxime voluptatem reprehenderit vel commodi, aut praesentium eligendi ipsum non. Consectetur fuga tenetur possimus ipsam deserunt aliquam odit, corporis aliquid qui commodi sapiente autem enim adipisci ea. Voluptatibus obcaecati distinctio doloribus deleniti nisi commodi nesciunt dolore perferendis soluta, rerum beatae asperiores, neque nulla reiciendis maiores, alias ipsum error officia aut explicabo non expedita! Perspiciatis repellat debitis facere, veritatis voluptate optio repudiandae ullam unde natus suscipit sint, necessitatibus esse minima cumque voluptatum sit quos omnis doloremque? Reiciendis exercitationem error, voluptatem voluptate pariatur nesciunt necessitatibus quod. Distinctio atque deleniti eum odio aperiam? Quia quo nam reprehenderit minima maxime, vero veniam dignissimos officia eos quisquam. Quisquam alias ipsa at quidem sit? Quas nostrum, sapiente quia quibusdam corrupti mollitia nisi debitis quis recusandae error amet laudantium sed. Deserunt ad aspernatur id enim dolorum dicta totam obcaecati necessitatibus, ut ipsum numquam explicabo debitis ipsa ullam, voluptatum atque doloribus magni vitae quis. Voluptatum sequi, nostrum impedit consectetur nemo totam quasi nihil. Eum explicabo qui ex eaque quia odit eligendi velit expedita harum! Corporis sint ducimus officia aut tenetur magnam, voluptates inventore perspiciatis, corrupti, repudiandae cumque? Tempore eum ratione dicta veniam sunt. Blanditiis eaque inventore doloribus quo, ad natus unde tempore assumenda necessitatibus explicabo. Exercitationem asperiores veritatis aspernatur dolores aut, tempora similique consectetur quae optio incidunt dignissimos a nesciunt maxime repudiandae aliquam officia amet fugit possimus magni. Accusamus reiciendis praesentium voluptatum quo aut minima. Harum vero blanditiis eos beatae, placeat numquam, minima sunt consectetur enim provident sed odit perspiciatis explicabo aspernatur maiores. Tenetur pariatur aperiam minima blanditiis quis rerum recusandae incidunt facilis nemo, amet ipsa, omnis alias, quaerat maiores minus fugiat quas rem? Quas sint delectus nam quo distinctio! Blanditiis nisi dolor, eligendi nulla reprehenderit cum id?
-      </Typography>
+      This is an alphabetical list of Hindi songs performed by Udit Narayan from 1980 to date. Over 1200 songs are listed here.[1] He has also sung in several other different languages which is not included here.A more exhaustive list of major Hindi film songs sung by Udit Narayan can be found at Hindi Geetmala,which is a comprehensive "searchable site for over 75,000 Bollywood films and songs",upon typing Udit Narayan in the searchbar there.
+          <ul>
+          <li>"A B C D E F G"</li>
+          <li>"A.B.C.D. Hum Nahi Jani"</li>
+          <li>"A Bhi Jao Mere Paas"</li>
+          <li> "A Ding Dang Do"</li>
+          <li>"Aa Ab Laut Chalen"</li>
+          <li> "Aa Gaya Aa Gaya"</li>
+          <li>"Aa Jee Le Ek Pal Mein"</li>
+          <li>"Aa Kahin Dur Chale"</li>
+          <li>"Aa Sajan Akhon Main"</li>
+          <li>"Aage Aage Chahat Chali"</li>
+          <li>"Aage Se Peechhe Shde"</li>
+          <li> "Aahista Aahista"</li>
+          <li>"Aaj Hoke Rahe Apna Milan"</li>
+          <li>"Aaj Kehna Zaroori Hai"</li>
+          <li>"Aaj Nachna"</li>
+          <li>"Aaja Mahiya"</li>
+      </ul>
+        </Typography>
     </Box>
     )
 };
