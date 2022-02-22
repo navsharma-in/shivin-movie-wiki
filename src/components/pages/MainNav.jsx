@@ -2,10 +2,10 @@ import React, {useEffect} from 'react';
 import Box from '@mui/material/Box';
 import BottomNavigation from '@mui/material/BottomNavigation';
 import BottomNavigationAction from '@mui/material/BottomNavigationAction';
-import WhatshotIcon from '@mui/icons-material/Whatshot';
-import SearchIcon from '@mui/icons-material/Search';
-import TheatersIcon from '@mui/icons-material/Theaters';
-import LiveTvIcon from '@mui/icons-material/LiveTv';
+import HomeIcon from '@mui/icons-material/Home';
+import ArticleIcon from '@mui/icons-material/Article';
+import PersonIcon from '@mui/icons-material/Person';
+import WorkIcon from '@mui/icons-material/Work';
 import { useNavigate } from "react-router-dom";
 
 export default function SimpleBottomNavigation() {
@@ -28,10 +28,10 @@ export default function SimpleBottomNavigation() {
           setValue(newValue);
         }}
       >
-        <BottomNavigationAction label="Trending" icon={<WhatshotIcon />} />
-        <BottomNavigationAction label="Movies" icon={<TheatersIcon />} />
-        <BottomNavigationAction label="Series" icon={<LiveTvIcon />} />
-        <BottomNavigationAction label="Search" icon={<SearchIcon />} />
+        <BottomNavigationAction label="Home" icon={<HomeIcon />} />
+        <BottomNavigationAction label="About" icon={<PersonIcon />} />
+        <BottomNavigationAction label="Project" icon={<WorkIcon />} />
+        <BottomNavigationAction label="Resume" icon={<ArticleIcon />} />
       </BottomNavigation>
     </Box>
   );

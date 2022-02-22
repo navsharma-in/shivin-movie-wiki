@@ -4,7 +4,7 @@ import logo from "./Movies/logo.svg";
 const Header = () => {
   
   
-    return <span className='header'> <img src={logo} className="App-logo" alt="logo" />SHIVIN - MOVIES info</span>;
+    return <span className='header'> <img src={logo} className="App-logo" alt="logo" />Hi...This Is Naveen</span>;
     
 };
 
