@@ -7,6 +7,7 @@ import ArticleIcon from '@mui/icons-material/Article';
 import PersonIcon from '@mui/icons-material/Person';
 import WorkIcon from '@mui/icons-material/Work';
 import { useNavigate } from "react-router-dom";
+import "./Header.css"
 
 export default function SimpleBottomNavigation() {
   const [value, setValue] = React.useState(0);
@@ -20,7 +21,7 @@ export default function SimpleBottomNavigation() {
 
 
   return (
-    <Box sx={{ width: "100%", position: "fixed", bottom:"0", zindex: "100", bgcolor: "secondary.main"}}>
+    <Box sx={{ width: "100%", position: "fixed", bottom:"0", zindex: "100", bgcolor: "primery.main"}}>
       <BottomNavigation
         showLabels
         value={value}
