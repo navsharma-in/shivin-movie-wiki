@@ -33,9 +33,16 @@
 }
 
 .h1{
-  font-size: x-large;
+  font-size: 80px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: darkcyan;
+  font-style: oblique;
+  font-stretch: extra-condensed;
+  -webkit-text-stroke-width: 0.4px;
+  -webkit-text-stroke-color: white; 
+}
+.p{
+  font-style: oblique;
+  line-height: 1.7;
 }
 
-.purple {
-  color: var(--imp-text-color) !important;
-}
